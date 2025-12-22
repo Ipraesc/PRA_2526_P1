@@ -1,6 +1,5 @@
 #ifndef LISTARRAY_H
 #define LISTARRAY_H
-
 #include "List.h"
 #include <stdexcept>
 #include <ostream>
